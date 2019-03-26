@@ -1,0 +1,7 @@
+C:\Users\azat\source\repos\PracticeFileStream\PracticeFileStream\bin\Debug\PracticeFileStream.exe.config
+C:\Users\azat\source\repos\PracticeFileStream\PracticeFileStream\bin\Debug\PracticeFileStream.exe
+C:\Users\azat\source\repos\PracticeFileStream\PracticeFileStream\bin\Debug\PracticeFileStream.pdb
+C:\Users\azat\source\repos\PracticeFileStream\PracticeFileStream\obj\Debug\PracticeFileStream.csprojAssemblyReference.cache
+C:\Users\azat\source\repos\PracticeFileStream\PracticeFileStream\obj\Debug\PracticeFileStream.csproj.CoreCompileInputs.cache
+C:\Users\azat\source\repos\PracticeFileStream\PracticeFileStream\obj\Debug\PracticeFileStream.exe
+C:\Users\azat\source\repos\PracticeFileStream\PracticeFileStream\obj\Debug\PracticeFileStream.pdb
